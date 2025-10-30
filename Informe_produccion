@@ -1,0 +1,50 @@
+ 🏭 Informe de Producción — Julio / Agosto 2025
+
+🥇 Resumen Ejecutivo
+
+Durante el período comprendido entre el 1 de julio y el 4 de agosto de 2025, la producción total alcanzó 192.642 unidades.  
+El turno noche fue el más productivo, con 51.034 unidades, mientras que el turno tarde mostró el menor rendimiento (26.420 unidades).  
+
+El operario Matías se destacó como el más eficiente del período, seguido por Lautaro (turno mañana) y Julián (turno tarde).  
+Se recomienda reforzar el mantenimiento de máquinas y moldes en el turno tarde para mejorar la productividad global.
+
+---
+
+ 📊 Indicadores Clave (KPI)
+
+|       Indicador         |       Valor     | Variación quincenal (%) |
+|-------------------------|-----------------|-------------------------|
+|     Producción total    | 125.070 unidades|          +66,1          |
+|    Ciclos completados   |        203      |          +66,3          |
+|     Tasa de defectos    |        1%       |          +33,3          |
+| Producción turno mañana | 47.616 unidades |          +65,1          |
+| Producción turno tarde  | 26.420 unidades |          +70,0          |
+| Producción turno noche  | 51.034 unidades |          +82,4          |
+
+📌 Dato destacado: El 21/07 fue el día de mayor producción con 9.011 unidades fabricadas.
+
+---
+
+🔍 Análisis Detallado
+
+ 🔸 Por turnos
+- Turno noche: lideró la producción con un incremento del 82,4% respecto a la quincena anterior.  
+- Turno mañana: mantuvo un rendimiento sólido, aportando casi una cuarta parte de la producción total.  
+- Turno tarde: fue el menos productivo; se recomienda revisar mantenimiento de máquinas y moldes.
+
+🔸 Por operario
+- Matías (noche) → mayor volumen total.  
+- Lautaro (mañana) → buen rendimiento sostenido.  
+- Julián (tarde) → destacó en su turno pese a menor productividad global.
+
+🔸 Calidad
+Tasa de defectos: 1% (+33,3% vs. quincena anterior).  
+  Se sugiere reforzar controles de calidad en el cierre de tandas.
+
+---
+
+ ⚙️ Metodología
+
+Fuente de datos: Registro interno de producción (Power BI Dataset)  
+Periodo analizado: 01/07/2025 — 04/08/2025  
+Herramientas:** Power BI, DAX, segmentadores por fecha, Detalle
